@@ -1,4 +1,5 @@
-Informational portal for divers
+<h1>DiveInfo</h1>
+<h2>Informational portal for divers</h2>
 
 http://diving.mnb-t.com/temp/
 
